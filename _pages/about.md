@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am a sports and technology enthusiast, combining a background in physical education with a passion for artificial intelligence.
+Hi there! My name is Guoxiang Zheng (郑国相), a sports and technology enthusiast, combining a background in physical education with a passion for artificial intelligence.
 
 I am currently a first-year Master’s student in Artificial Intelligence at Shanghai University's School of Future Technology, and I hold a Bachelor's degree in Social Sports Guidance and Management (Education) and Computer Science and Technology (Engineering) from Jiangxi University of Finance and Economics. 
 
