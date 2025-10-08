@@ -40,6 +40,69 @@ Yi Li, Yuxuan Gao, Jianyi Cai, **Guoxiang Zheng**, Hanlin Shi, Xiping Liu
 </div>
 </div>
 
+# 💻Past Projects
+
+## 🍎 FitEdge — Your personal nutritionist (2025.1)
+
+> FitEdge is an intelligent nutrition and fitness platform that helps users track, analyze, and improve their daily eating habits.  
+> By integrating **AI-powered food recognition**, **calorie estimation**, and **personalized nutrition analysis**, FitEdge provides users with an all-in-one solution for building a healthier lifestyle.
+
+<div style="text-align: center; margin: 10px 0 20px 0;">
+  <a href="https://github.com/zgx949/FitEdge" target="_blank" style="text-decoration: none; margin-right: 10px;">
+    🔗 <b>GitHub</b>
+  </a>
+  |
+  <a href="https://www.fitedge.cn" target="_blank" style="text-decoration: none; margin-left: 10px;">
+    🌐 <b>Website</b>
+  </a>
+  |
+  <a href="https://www.fitedge.cn/#download" target="_blank" style="text-decoration: none; margin-left: 10px;">
+    📱 <b>Download</b>
+  </a>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+
+<iframe
+src="//player.bilibili.com/player.html?isOutside=true&aid=114024368835729&bvid=BV1nsAaeoEjv&cid=28455666204&p=1"
+allowfullscreen
+style="flex: 1 1 600px; min-width: 400px; max-width: 400px; aspect-ratio: 16 / 9; border: none; border-radius: 8px;">
+</iframe>
+
+</div>
+
+## 🪶 MiniOS — A web OS running on your browser (2024.4)
+
+> MiniOS, built on the **Django** backend framework and **Vue.js** frontend framework, allows for cross-platform and cross-protocol file operations and sharing through browser access.  
+
+<div style="text-align: center; margin: 10px 0 20px 0;">
+
+<a href="https://github.com/zgx949/miniOS" target="_blank" style="text-decoration: none; margin-right: 10px;">
+  🔗 <b>GitHub</b>
+</a>
+|
+<a href="https://win.lefthand.top" target="_blank" style="text-decoration: none; margin-left: 10px;">
+  🚀 <b>Demo</b>
+</a>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+
+<iframe
+src="//player.bilibili.com/player.html?isOutside=true&aid=1804551231&bvid=BV1Ub421b7bS&cid=1544767745&p=1"
+allowfullscreen
+style="flex: 1 1 600px; min-width: 400px; max-width: 400px; aspect-ratio: 16 / 9; border: none; border-radius: 8px;">
+</iframe>
+
+<iframe
+src="//player.bilibili.com/player.html?isOutside=true&aid=238692391&bvid=BV1Fe411m7CZ&cid=1403823819&p=1"
+allowfullscreen
+style="flex: 1 1 600px; min-width: 400px; max-width: 400px; aspect-ratio: 16 / 9; border: none; border-radius: 8px;">
+</iframe>
+
+</div>
+
+
 # 🎖 Honors and Awards
 ## Scholarships
 - [x] ***2021.07***: Nanchang Youth Foundation Scholarship
