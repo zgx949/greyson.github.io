@@ -48,10 +48,6 @@ Yi Li, Yuxuan Gao, Jianyi Cai, **Guoxiang Zheng**, Hanlin Shi, Xiping Liu
 > By integrating **AI-powered food recognition**, **calorie estimation**, and **personalized nutrition analysis**, FitEdge provides users with an all-in-one solution for building a healthier lifestyle.
 
 <div style="text-align: center; margin: 10px 0 20px 0;">
-  <a href="https://github.com/zgx949/FitEdge" target="_blank" style="text-decoration: none; margin-right: 10px;">
-    🔗 <b>GitHub</b>
-  </a>
-  |
   <a href="https://www.fitedge.cn" target="_blank" style="text-decoration: none; margin-left: 10px;">
     🌐 <b>Website</b>
   </a>
